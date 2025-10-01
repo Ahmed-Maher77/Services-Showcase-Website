@@ -6,8 +6,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 // Boxicons
 import "boxicons/css/boxicons.min.css";
-// Custom CSS
-import "./index.css";
 // Animations
 import "./common/Animations/animations.css";
 import { initAnimations } from "./common/Animations/animations.js";
