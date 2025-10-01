@@ -1,33 +1,34 @@
-# Ahmed Maher - Portfolio & Services Showcase
+# Services Showcase Website
 
-A modern, responsive, and accessible portfolio website showcasing comprehensive full-stack development services with interactive animations and professional UI/UX design.
+A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack development services. Features interactive animations, service details modals, image slider, and comprehensive contact information with professional UI/UX design.
 
 ---
 
 ## 🌐 Live Preview
 
-[👀 Watch Live Demo](https://ahmedmaher-portfolio.netlify.app)
+**👀 Watch Live Demo:** [https://ahmed-maher77.github.io/Services-Showcase-Website/](https://ahmed-maher77.github.io/Services-Showcase-Website/)
 
 ---
 
 ## 🎥 Demo Video
 
-[Watch the Demo on LinkedIn](https://linkedin.com/in/ahmedmaher-dev)
+**Watch the Demo on LinkedIn:** [coming soon]()
 
 ---
 
 ## 💻 Used Technologies
 
--   **React 19.1.1** - Modern UI library for building interactive, component-based user interfaces
--   **Vite 7.1.7** - Lightning-fast build tool and development server for optimal performance
--   **Bootstrap 5.3.8** - Comprehensive CSS framework ensuring responsive design and consistent styling
--   **Sass 1.93.2** - Advanced CSS preprocessor enabling modular and maintainable stylesheets
--   **Boxicons 2.1.4** - Professional icon library providing consistent visual elements
+### Frontend:
+-   **React JS** - Modern UI library for building interactive, component-based user interfaces
+-   **Vite** - Lightning-fast build tool and development server for optimal performance
+-   **Bootstrap** - Comprehensive CSS framework ensuring responsive design and consistent styling
+-   **Sass / Scss** - Advanced CSS preprocessor enabling modular and maintainable stylesheets
+-   **Boxicons** - Professional icon library providing consistent visual elements
 -   **ESLint** - Code quality tool ensuring maintainable and consistent JavaScript code
 -   **Intersection Observer API** - Native browser API powering smooth scroll-triggered animations
 -   **CSS3 Animations** - Pure CSS animations with custom timing functions for enhanced user experience
-
-**Hosting:** Netlify
+### Hosting: 
+- **GitHub Pages** - Static site hosting directly from your GitHub repository, enabling free and fast deployment of our React app
 
 ---
 
@@ -50,9 +51,9 @@ A modern, responsive, and accessible portfolio website showcasing comprehensive 
 
 ## 📸 Website Preview
 
-![Portfolio Preview](https://via.placeholder.com/800x600/2c3e50/ffffff?text=Ahmed+Maher+Portfolio+Preview)
-
-_Professional portfolio showcasing modern web development services with interactive animations and responsive design_
+<a href="https://ahmed-maher77.github.io/Services-Showcase-Website/" target="_blank" rel="noopener noreferrer" title="demo">
+  <img src="" alt="website preview" width="400">
+</a>
 
 ---
 
@@ -68,24 +69,20 @@ _Professional portfolio showcasing modern web development services with interact
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/ahmedmaher-dev/portfolio-website.git
-    cd portfolio-website
+    git clone https://github.com/Ahmed-Maher77/Services-Showcase-Website.git
+    cd Services-Showcase-Website
     ```
 
 2. **Install dependencies**
 
     ```bash
     npm install
-    # or
-    yarn install
     ```
 
 3. **Start development server**
 
     ```bash
     npm run dev
-    # or
-    yarn dev
     ```
 
 4. **Open in browser**
@@ -93,41 +90,21 @@ _Professional portfolio showcasing modern web development services with interact
     http://localhost:5001
     ```
 
-### Build for Production
-
-```bash
-npm run build
-# or
-yarn build
-```
-
-### Preview Production Build
-
-```bash
-npm run preview
-# or
-yarn preview
-```
-
 ---
 
 ## 📬 Contact & Contribution
 
--   **Portfolio**: [ahmedmaher-portfolio.vercel.app](https://ahmedmaher-portfolio.vercel.app)
--   **LinkedIn**: [linkedin.com/in/ahmedmaher-dev](https://linkedin.com/in/ahmedmaher-dev)
--   **Email**: [ahmedmaher.dev@gmail.com](mailto:ahmedmaher.dev@gmail.com)
+- 🧑‍💻 **Portfolio:** <a href="https://ahmedmaher-portfolio.vercel.app/" title="See My Portfolio">https://ahmedmaher-portfolio.vercel.app/</a>
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="Contact via LinkedIn">https://www.linkedin.com/in/ahmed-maher-algohary</a>
+- 📧 **Email:** <a href="mailto:ahmedmaher.dev1@gmail.com" title="Contact via Email">ahmedmaher.dev1@gmail.com</a>
 
-### Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+> Contributions, suggestions, and bug reports are welcome. Feel free to open issues or pull requests.
 
 ---
 
 ## ⭐ Support
 
-If you found this project helpful, please give it a ⭐ star on GitHub!
-
-For any questions or support, feel free to reach out through the contact information above.
+If you found this project helpful or inspiring, please consider giving it a ⭐. Your support helps me grow and share more open-source projects like this!
 
 ---
 
