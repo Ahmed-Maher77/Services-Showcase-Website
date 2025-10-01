@@ -8,9 +8,9 @@ export default defineConfig({
         port: 5001,
     },
     base: "/Services-Showcase-Website/",
-        // import.meta.env.VITE_NODE_ENV === "production"
-        //     ? "/Services-Showcase-Website/"
-        //     : "/",
+    // import.meta.env.VITE_NODE_ENV === "production"
+    //     ? "/Services-Showcase-Website/"
+    //     : "/",
     build: {
         outDir: "dist",
         assetsDir: "assets",
