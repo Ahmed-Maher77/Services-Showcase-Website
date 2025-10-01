@@ -5,6 +5,20 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
+    "license": "MIT",
+    "description": "Professional portfolio website showcasing full-stack development services with modern React technologies",
+    "keywords": [
+        "portfolio",
+        "react",
+        "vite",
+        "bootstrap",
+        "sass",
+        "full-stack",
+        "developer",
+        "responsive",
+        "accessible",
+        "modern-web"
+    ],
     "scripts": {
         "dev": "vite",
         "build": "vite build",

@@ -19,6 +19,7 @@ A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack
 ## 💻 Used Technologies
 
 ### Frontend:
+
 -   **React JS** - Modern UI library for building interactive, component-based user interfaces
 -   **Vite** - Lightning-fast build tool and development server for optimal performance
 -   **Bootstrap** - Comprehensive CSS framework ensuring responsive design and consistent styling
@@ -27,8 +28,10 @@ A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack
 -   **ESLint** - Code quality tool ensuring maintainable and consistent JavaScript code
 -   **Intersection Observer API** - Native browser API powering smooth scroll-triggered animations
 -   **CSS3 Animations** - Pure CSS animations with custom timing functions for enhanced user experience
-### Hosting: 
-- **GitHub Pages** - Static site hosting directly from your GitHub repository, enabling free and fast deployment of our React app
+
+### Hosting:
+
+-   **GitHub Pages** - Static site hosting directly from your GitHub repository, enabling free and fast deployment of our React app
 
 ---
 
@@ -94,9 +97,9 @@ A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack
 
 ## 📬 Contact & Contribution
 
-- 🧑‍💻 **Portfolio:** <a href="https://ahmedmaher-portfolio.vercel.app/" title="See My Portfolio">https://ahmedmaher-portfolio.vercel.app/</a>
-- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="Contact via LinkedIn">https://www.linkedin.com/in/ahmed-maher-algohary</a>
-- 📧 **Email:** <a href="mailto:ahmedmaher.dev1@gmail.com" title="Contact via Email">ahmedmaher.dev1@gmail.com</a>
+-   🧑‍💻 **Portfolio:** <a href="https://ahmedmaher-portfolio.vercel.app/" title="See My Portfolio">https://ahmedmaher-portfolio.vercel.app/</a>
+-   🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="Contact via LinkedIn">https://www.linkedin.com/in/ahmed-maher-algohary</a>
+-   📧 **Email:** <a href="mailto:ahmedmaher.dev1@gmail.com" title="Contact via Email">ahmedmaher.dev1@gmail.com</a>
 
 > Contributions, suggestions, and bug reports are welcome. Feel free to open issues or pull requests.
 
@@ -105,6 +108,12 @@ A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack
 ## ⭐ Support
 
 If you found this project helpful or inspiring, please consider giving it a ⭐. Your support helps me grow and share more open-source projects like this!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
