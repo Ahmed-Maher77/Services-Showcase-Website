@@ -8,7 +8,7 @@ const SliderItem = ({
     return (
         <div className={`carousel-item h-100 ${active ? "active" : ""}`}>
             <img src={src} className={imgClassName} alt={alt} />
-            <div className="carousel-caption d-none d-md-block">{children}</div>
+            <div className="carousel-caption">{children}</div>
         </div>
     );
 };
