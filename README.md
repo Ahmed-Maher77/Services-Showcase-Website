@@ -55,7 +55,7 @@ A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack
 ## 📸 Website Preview
 
 <a href="https://ahmed-maher77.github.io/Services-Showcase-Website/" target="_blank" rel="noopener noreferrer" title="demo">
-  <img src="https://github.com/user-attachments/assets/16aeb9e1-153a-4e72-8a49-d82f32c13f69" alt="website preview - UI Mockup" width="400">
+  <img src="https://github.com/user-attachments/assets/ce8f8dd3-8ed2-42b7-bae2-1c8480c48174" alt="website preview - UI Mockup" width="400">
 </a>
 
 ---
