@@ -10,9 +10,11 @@ A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack
 
 ---
 
-## 🎥 Demo Video
+## 📸 Website Preview
 
-**Watch the Demo on LinkedIn:** [coming soon]()
+<a href="https://ahmed-maher77.github.io/Services-Showcase-Website/" target="_blank" rel="noopener noreferrer" title="demo">
+  <img src="https://github.com/user-attachments/assets/ce8f8dd3-8ed2-42b7-bae2-1c8480c48174" alt="website preview - UI Mockup" width="400">
+</a>
 
 ---
 
@@ -49,14 +51,6 @@ A modern, responsive, and accessible website showcasing Ahmed Maher's full-stack
 -   🎭 **Professional Loader** - Smooth initial loading screen with elegant transitions
 -   📞 **Contact Integration** - Social media links and comprehensive contact information
 -   🔍 **SEO Ready** - Semantic HTML structure and meta tags for search engine optimization
-
----
-
-## 📸 Website Preview
-
-<a href="https://ahmed-maher77.github.io/Services-Showcase-Website/" target="_blank" rel="noopener noreferrer" title="demo">
-  <img src="https://github.com/user-attachments/assets/ce8f8dd3-8ed2-42b7-bae2-1c8480c48174" alt="website preview - UI Mockup" width="400">
-</a>
 
 ---
 
